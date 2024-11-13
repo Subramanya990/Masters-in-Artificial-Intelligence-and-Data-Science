@@ -1,0 +1,11 @@
+-i https://pypi.org/simple
+flask
+numpy
+tensorflow
+opencv-python-headless
+werkzeug
+matplotlib
+gunicorn
+Pillow
+image
+scipy
