@@ -1,0 +1,2 @@
+ The integral equals numerically 21.000005 
+ The integral equals analytically 21.000000 
